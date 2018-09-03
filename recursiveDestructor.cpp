@@ -3,7 +3,8 @@
 
 using namespace std;
 
-struct LNode {
+class LNode {
+	public:
 	int data;
 	LNode* next;
 
